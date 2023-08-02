@@ -1,10 +1,9 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("/images/DSC_3075-Pano.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 765px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-group-1 {
@@ -16,7 +15,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 60px auto 60px 0;
+  margin: 138px auto 60px 0;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -35,7 +34,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 713px;
+    min-height: 819px;
   }
 
   .u-section-1 .u-group-1 {
@@ -43,15 +42,9 @@
   }
 }
 
-@media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 546px;
-  }
-}
-
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 410px;
+    min-height: 796px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -62,7 +55,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 258px;
+    min-height: 645px;
   }
 
   .u-section-1 .u-group-1 {
